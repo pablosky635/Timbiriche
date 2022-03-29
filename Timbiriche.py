@@ -1,3 +1,6 @@
+# Feb 2020
+# Simulación del juego de timbiriche
+
 import numpy as np
 import random
 import time 
